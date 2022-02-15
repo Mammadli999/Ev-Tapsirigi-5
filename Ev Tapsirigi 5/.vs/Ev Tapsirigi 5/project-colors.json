@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9836170d-20d9-456c-8319-4ee9639a5eae": {
+      "ProjectGuid": "9836170d-20d9-456c-8319-4ee9639a5eae",
+      "DisplayName": "Ev Tapsirigi 5",
+      "ColorIndex": 0
+    },
+    "329bec90-6393-428c-97e0-456956adc460": {
+      "ProjectGuid": "329bec90-6393-428c-97e0-456956adc460",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

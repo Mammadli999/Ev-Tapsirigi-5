@@ -1,0 +1,19 @@
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\bin\Debug\net5.0\Ev Tapsirigi 5.exe
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\bin\Debug\net5.0\Ev Tapsirigi 5.deps.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\bin\Debug\net5.0\Ev Tapsirigi 5.runtimeconfig.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\bin\Debug\net5.0\Ev Tapsirigi 5.runtimeconfig.dev.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\bin\Debug\net5.0\Ev Tapsirigi 5.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\bin\Debug\net5.0\ref\Ev Tapsirigi 5.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\bin\Debug\net5.0\Ev Tapsirigi 5.pdb
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\obj\Debug\net5.0\Ev Tapsirigi 5.csproj.AssemblyReference.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\obj\Debug\net5.0\Ev Tapsirigi 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\obj\Debug\net5.0\Ev Tapsirigi 5.AssemblyInfoInputs.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\obj\Debug\net5.0\Ev Tapsirigi 5.AssemblyInfo.cs
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\obj\Debug\net5.0\Ev Tapsirigi 5.csproj.CoreCompileInputs.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\obj\Debug\net5.0\Ev Tapsirigi 5.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\obj\Debug\net5.0\ref\Ev Tapsirigi 5.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\obj\Debug\net5.0\Ev Tapsirigi 5.pdb
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\obj\Debug\net5.0\Ev Tapsirigi 5.genruntimeconfig.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\bin\Debug\net5.0\ClassLibrary1.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\bin\Debug\net5.0\ClassLibrary1.pdb
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 5\Ev Tapsirigi 5\obj\Debug\net5.0\Ev Tapsirigi 5.csproj.CopyComplete
